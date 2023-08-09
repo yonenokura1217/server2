@@ -1,0 +1,300 @@
+  946  vi .gitignore
+  947  ls
+  948  cd ..
+  949  ls
+  950  git add .
+  951  git status
+  952  git commit -m"last2"
+  953  git push origin master
+  954  ls 
+  955  git commit -a -m"last3"
+  956  git add .
+  957  git status
+  958  git add linux_practice2
+  959  git commit -m "last4"
+  960  git commit -m"last4"
+  961  git add linux_practice2
+  962  git status
+  963  git commit -a -m"last4"
+  964  git init
+  965  git add .
+  966  git status
+  967  git add linux_practice2
+  968  git commit -m"last4"
+  969  git log
+  970  git status
+  971  git add linux_practice2
+  972  git commit -a -m"last3"
+  973  git init
+  974  git add .
+  975  git status
+  976  git commit -a -m"last3"
+  977  git log
+  978  git diff
+  979  git diff --cached
+  980  ls
+  981  git add .
+  982  git commit -a -m'last3'
+  983  git add linux_practice2
+  984  git commit -m'last3'
+  985  git commit -a
+  986  git checkout -- linux_practice2
+  987  ls
+  988  git log
+  989  git add .
+  990  git commit -m'last3'
+  991  cd linux_practice2
+  992  ls
+  993  cd ..
+  994  ls
+  995  cd ..
+  996  ls
+  997  cd server_lesson/
+  998  ls
+  999  git init
+ 1000  git add .
+ 1001  git log
+ 1002  git status
+ 1003  git add linux_practice2
+ 1004  git commit -m"fait"
+ 1005  git checkout -- linux_practice2
+ 1006  ls
+ 1007  git add linux_practice2
+ 1008  git commit -a
+ 1009  git add linux_practice2 git commit -a -m'last3'
+ 1010  git add linux_practice2
+ 1011  git add .
+ 1012  git commit -m'last3'
+ 1013  git add linux_practice2 git commit -m'last3'
+ 1014  git diff --cached
+ 1015  git statusと
+ 1016  git status�
+ 1017  git status�
+ 1018  git statuss
+ 1019  git status
+ 1020  git add -a
+ 1021  git status
+ 1022  git status
+ 1023  git log
+ 1024  git reset --hard HEAD
+ 1025  ls
+ 1026  cd linux_practice2
+ 1027  ls
+ 1028  cd documents/
+ 1029  ls
+ 1030  cd ..
+ 1031  cd ..
+ 1032  ls
+ 1033  git add .
+ 1034  git status
+ 1035  git add linux_practice2
+ 1036  git commit -m "last3"
+ 1037  git add linux_practice2
+ 1038  git commit -m "last3"
+ 1039  ls
+ 1040  cd linux_practice2
+ 1041  ls
+ 1042  git add linux_practice2
+ 1043  git commit -a
+ 1044  git status
+ 1045  ls
+ 1046  ls -a
+ 1047  vi .gitignore
+ 1048  ls
+ 1049  ls -a
+ 1050  cd ..
+ 1051  ls
+ 1052  git add
+ 1053  git add .
+ 1054  git commit -m"last3"
+ 1055  git checkout -- .
+ 1056  git add .
+ 1057  git commit -m"last3"
+ 1058  git diff --cached
+ 1059  git status
+ 1060  git remote -v
+ 1061  git push origin master
+ 1062  git add linux_practice2
+ 1063  git commit -m "last3"
+ 1064  git status
+ 1065  git add linux_practice2
+ 1066* git commit -m�"la
+ 1067  cd linux_practice2
+ 1068  ls
+ 1069  ls -a
+ 1070  vi .gitignore
+ 1071  ls
+ 1072  ls -a
+ 1073  cd ..
+ 1074  ls
+ 1075  git add .
+ 1076  git t add linux_practice2
+ 1077* 
+ 1078  gti commit -m "last3"
+ 1079  gti commit -m "last3"
+ 1080  git add linux_practice2
+ 1081  git commit -m "last3"
+ 1082  git push origin master
+ 1083  git remote remove origin
+ 1084  git remote -v
+ 1085  git remote add origin https://github.com/yonenokura1217/server.git
+ 1086  git remote -v
+ 1087  ls
+ 1088  git init
+ 1089  git add .
+ 1090  git commit -m "last3"
+ 1091  git add .
+ 1092  git commit -m "last3"
+ 1093  git commit -a -m "last3"
+ 1094  git add -a
+ 1095  git add A
+ 1096  git push origin master
+ 1097  git checkout --.
+ 1098  git checkout.
+ 1099  git checkout .
+ 1100  git status
+ 1101  git add linux_practice2
+ 1102  git commit
+ 1103  cd linux_practice2
+ 1104  ls
+ 1105  git checkout .
+ 1106  cd ..
+ 1107  git add .
+ 1108  git status
+ 1109  git commit -m"last3"
+ 1110  git log
+ 1111  git add .
+ 1112  git commit -a -m"last3"
+ 1113  git push origin master
+ 1114  git add .
+ 1115  git commit -m "メッセージを入れる"
+ 1116  git commit -a -m"last3"
+ 1117  git log
+ 1118  cd git commit --allow-empty -m"last3"
+ 1119  git commit --allow-empty -m"last3"
+ 1120  git push origin master
+ 1121  git add linux_practice2
+ 1122  git commit -m"last4"
+ 1123  ls
+ 1124  cd linux_practice2
+ 1125  ls
+ 1126  cd trash/
+ 1127  ls
+ 1128  cd ..
+ 1129  ls
+ 1130  ls -a
+ 1131  cd .git
+ 1132  ls
+ 1133  cd ..
+ 1134  ls
+ 1135  git add .
+ 1136  git commit -m "last5"
+ 1137  touch yo
+ 1138  ls
+ 1139  cd ..
+ 1140  ls
+ 1141  git commit -m "last5"
+ 1142  git commit -a
+ 1143  cd ls
+ 1144  cd linux_practice2
+ 1145  ls
+ 1146  rm yo
+ 1147  ls
+ 1148  cd ,,
+ 1149  cd ..
+ 1150  ls
+ 1151  cd linux_practice2
+ 1152  ls
+ 1153  ls -a
+ 1154  vi .gitignore
+ 1155  cd ..
+ 1156  ls
+ 1157  ls
+ 1158  cd 
+ 1159  ls
+ 1160  git add /
+ 1161  git add .
+ 1162  ]ls
+ 1163  ls
+ 1164  cd server_lesson/
+ 1165  ls
+ 1166  git add .
+ 1167  git commit -m"last6"
+ 1168  git add linux_practice2/
+ 1169  git commit -m"last7"
+ 1170  git diff
+ 1171  cd linux_practice2
+ 1172  git diff
+ 1173  git add .
+ 1174  git commit -m "last6"
+ 1175  cd ..
+ 1176  git add linux_practice2
+ 1177  git commit -m"last7"
+ 1178  git push origin master
+ 1179  git submodule deinit -f linux_practice2
+ 1180  git rm -f linux_practice2
+ 1181  rm -rf .git/modules/linux_practice2
+ 1182  git add linux_practice2_files
+ 1183  ls
+ 1184  git commit -m"last8"
+ 1185  cd linux_practice2
+ 1186  git checkout .
+ 1187  cd ..
+ 1188  git rm -r --cached linux_practice2
+ 1189  rm -rf linux_practice2
+ 1190  git add linux_practice2
+ 1191  git add .
+ 1192  git commit -m"LAST"
+ 1193  cd linux_practice2
+ 1194  ls
+ 1195  git add linux_practice2
+ 1196  git diff
+ 1197  git log
+ 1198  commit ea7610ba162f6b8bb12cfae5623c47bbe7b75b2c
+ 1199  ls
+ 1200  git reset --hard 83b0e3f7e81ee45c40aabeb8ca3d90e5b0a19773
+ 1201  ls
+ 1202  cd linux_practice2
+ 1203  ls
+ 1204  ls
+ 1205  ls
+ 1206  cd ..
+ 1207  ls
+ 1208  cd linux_practice2
+ 1209  ls
+ 1210  mkdir documents
+ 1211  ls
+ 1212  cs documents/
+ 1213  ls
+ 1214  ls
+ 1215  cd documents/
+ 1216  ls
+ 1217  touch gizumo{01..50}.md
+ 1218  ls
+ 1219  cd ..
+ 1220  ls
+ 1221  mkdir trash
+ 1222  ls
+ 1223  cd documents
+ 1224  ls
+ 1225  mv gizumo{20..40}.md ../trash/
+ 1226  ls
+ 1227  cd ..
+ 1228  ls
+ 1229  cd trash/
+ 1230  ls
+ 1231  ls-a
+ 1232  ls -a
+ 1233  cd ..
+ 1234  ls
+ 1235  ls -a
+ 1236  touch .gitignore
+ 1237  ls
+ 1238  ls-a
+ 1239  ls -a
+ 1240  vi .gitignore
+ 1241  ls
+ 1242  ls -a
+ 1243  touch exec_command.log
+ 1244  ls
+ 1245  history 300 > exec_command.log
